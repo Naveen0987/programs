@@ -1,0 +1,14 @@
+/media/naveen/Secondary/VsCode/C#/constructor/obj/Debug/net8.0/constructor.GeneratedMSBuildEditorConfig.editorconfig
+/media/naveen/Secondary/VsCode/C#/constructor/obj/Debug/net8.0/constructor.AssemblyInfoInputs.cache
+/media/naveen/Secondary/VsCode/C#/constructor/obj/Debug/net8.0/constructor.AssemblyInfo.cs
+/media/naveen/Secondary/VsCode/C#/constructor/obj/Debug/net8.0/constructor.csproj.CoreCompileInputs.cache
+/media/naveen/Secondary/VsCode/C#/constructor/bin/Debug/net8.0/constructor
+/media/naveen/Secondary/VsCode/C#/constructor/bin/Debug/net8.0/constructor.deps.json
+/media/naveen/Secondary/VsCode/C#/constructor/bin/Debug/net8.0/constructor.runtimeconfig.json
+/media/naveen/Secondary/VsCode/C#/constructor/bin/Debug/net8.0/constructor.dll
+/media/naveen/Secondary/VsCode/C#/constructor/bin/Debug/net8.0/constructor.pdb
+/media/naveen/Secondary/VsCode/C#/constructor/obj/Debug/net8.0/constructor.dll
+/media/naveen/Secondary/VsCode/C#/constructor/obj/Debug/net8.0/refint/constructor.dll
+/media/naveen/Secondary/VsCode/C#/constructor/obj/Debug/net8.0/constructor.pdb
+/media/naveen/Secondary/VsCode/C#/constructor/obj/Debug/net8.0/constructor.genruntimeconfig.cache
+/media/naveen/Secondary/VsCode/C#/constructor/obj/Debug/net8.0/ref/constructor.dll

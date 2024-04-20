@@ -1,0 +1,14 @@
+/media/naveen/Secondary/VsCode/C#/hello/bin/Debug/net8.0/hello
+/media/naveen/Secondary/VsCode/C#/hello/bin/Debug/net8.0/hello.deps.json
+/media/naveen/Secondary/VsCode/C#/hello/bin/Debug/net8.0/hello.runtimeconfig.json
+/media/naveen/Secondary/VsCode/C#/hello/bin/Debug/net8.0/hello.dll
+/media/naveen/Secondary/VsCode/C#/hello/bin/Debug/net8.0/hello.pdb
+/media/naveen/Secondary/VsCode/C#/hello/obj/Debug/net8.0/hello.GeneratedMSBuildEditorConfig.editorconfig
+/media/naveen/Secondary/VsCode/C#/hello/obj/Debug/net8.0/hello.AssemblyInfoInputs.cache
+/media/naveen/Secondary/VsCode/C#/hello/obj/Debug/net8.0/hello.AssemblyInfo.cs
+/media/naveen/Secondary/VsCode/C#/hello/obj/Debug/net8.0/hello.csproj.CoreCompileInputs.cache
+/media/naveen/Secondary/VsCode/C#/hello/obj/Debug/net8.0/hello.dll
+/media/naveen/Secondary/VsCode/C#/hello/obj/Debug/net8.0/refint/hello.dll
+/media/naveen/Secondary/VsCode/C#/hello/obj/Debug/net8.0/hello.pdb
+/media/naveen/Secondary/VsCode/C#/hello/obj/Debug/net8.0/hello.genruntimeconfig.cache
+/media/naveen/Secondary/VsCode/C#/hello/obj/Debug/net8.0/ref/hello.dll
