@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/naveen/Secondary/VsCode/C#/day4-task2/day4-task2.csproj": {}
+    "/media/naveen/Secondary/VsCode/C#/day4-task3/day4-task2.csproj": {}
   },
   "projects": {
-    "/media/naveen/Secondary/VsCode/C#/day4-task2/day4-task2.csproj": {
+    "/media/naveen/Secondary/VsCode/C#/day4-task3/day4-task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/naveen/Secondary/VsCode/C#/day4-task2/day4-task2.csproj",
+        "projectUniqueName": "/media/naveen/Secondary/VsCode/C#/day4-task3/day4-task2.csproj",
         "projectName": "day4-task2",
-        "projectPath": "/media/naveen/Secondary/VsCode/C#/day4-task2/day4-task2.csproj",
+        "projectPath": "/media/naveen/Secondary/VsCode/C#/day4-task3/day4-task2.csproj",
         "packagesPath": "/home/naveen/.nuget/packages/",
-        "outputPath": "/media/naveen/Secondary/VsCode/C#/day4-task2/obj/",
+        "outputPath": "/media/naveen/Secondary/VsCode/C#/day4-task3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/naveen/.nuget/NuGet/NuGet.Config"
