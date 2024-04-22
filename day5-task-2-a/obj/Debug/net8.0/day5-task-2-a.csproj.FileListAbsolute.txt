@@ -1,0 +1,14 @@
+/media/naveen/Secondary/VsCode/C#/day5-task-2-a/bin/Debug/net8.0/day5-task-2-a
+/media/naveen/Secondary/VsCode/C#/day5-task-2-a/bin/Debug/net8.0/day5-task-2-a.deps.json
+/media/naveen/Secondary/VsCode/C#/day5-task-2-a/bin/Debug/net8.0/day5-task-2-a.runtimeconfig.json
+/media/naveen/Secondary/VsCode/C#/day5-task-2-a/bin/Debug/net8.0/day5-task-2-a.dll
+/media/naveen/Secondary/VsCode/C#/day5-task-2-a/bin/Debug/net8.0/day5-task-2-a.pdb
+/media/naveen/Secondary/VsCode/C#/day5-task-2-a/obj/Debug/net8.0/day5-task-2-a.GeneratedMSBuildEditorConfig.editorconfig
+/media/naveen/Secondary/VsCode/C#/day5-task-2-a/obj/Debug/net8.0/day5-task-2-a.AssemblyInfoInputs.cache
+/media/naveen/Secondary/VsCode/C#/day5-task-2-a/obj/Debug/net8.0/day5-task-2-a.AssemblyInfo.cs
+/media/naveen/Secondary/VsCode/C#/day5-task-2-a/obj/Debug/net8.0/day5-task-2-a.csproj.CoreCompileInputs.cache
+/media/naveen/Secondary/VsCode/C#/day5-task-2-a/obj/Debug/net8.0/day5-task-2-a.dll
+/media/naveen/Secondary/VsCode/C#/day5-task-2-a/obj/Debug/net8.0/refint/day5-task-2-a.dll
+/media/naveen/Secondary/VsCode/C#/day5-task-2-a/obj/Debug/net8.0/day5-task-2-a.pdb
+/media/naveen/Secondary/VsCode/C#/day5-task-2-a/obj/Debug/net8.0/day5-task-2-a.genruntimeconfig.cache
+/media/naveen/Secondary/VsCode/C#/day5-task-2-a/obj/Debug/net8.0/ref/day5-task-2-a.dll
