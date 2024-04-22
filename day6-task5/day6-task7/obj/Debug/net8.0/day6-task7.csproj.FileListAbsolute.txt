@@ -1,0 +1,14 @@
+/media/naveen/Secondary/VsCode/C#/day6-task5/day6-task7/bin/Debug/net8.0/day6-task7
+/media/naveen/Secondary/VsCode/C#/day6-task5/day6-task7/bin/Debug/net8.0/day6-task7.deps.json
+/media/naveen/Secondary/VsCode/C#/day6-task5/day6-task7/bin/Debug/net8.0/day6-task7.runtimeconfig.json
+/media/naveen/Secondary/VsCode/C#/day6-task5/day6-task7/bin/Debug/net8.0/day6-task7.dll
+/media/naveen/Secondary/VsCode/C#/day6-task5/day6-task7/bin/Debug/net8.0/day6-task7.pdb
+/media/naveen/Secondary/VsCode/C#/day6-task5/day6-task7/obj/Debug/net8.0/day6-task7.GeneratedMSBuildEditorConfig.editorconfig
+/media/naveen/Secondary/VsCode/C#/day6-task5/day6-task7/obj/Debug/net8.0/day6-task7.AssemblyInfoInputs.cache
+/media/naveen/Secondary/VsCode/C#/day6-task5/day6-task7/obj/Debug/net8.0/day6-task7.AssemblyInfo.cs
+/media/naveen/Secondary/VsCode/C#/day6-task5/day6-task7/obj/Debug/net8.0/day6-task7.csproj.CoreCompileInputs.cache
+/media/naveen/Secondary/VsCode/C#/day6-task5/day6-task7/obj/Debug/net8.0/day6-task7.dll
+/media/naveen/Secondary/VsCode/C#/day6-task5/day6-task7/obj/Debug/net8.0/refint/day6-task7.dll
+/media/naveen/Secondary/VsCode/C#/day6-task5/day6-task7/obj/Debug/net8.0/day6-task7.pdb
+/media/naveen/Secondary/VsCode/C#/day6-task5/day6-task7/obj/Debug/net8.0/day6-task7.genruntimeconfig.cache
+/media/naveen/Secondary/VsCode/C#/day6-task5/day6-task7/obj/Debug/net8.0/ref/day6-task7.dll
